@@ -15,6 +15,7 @@ This repository contains Terraform code to provision an AWS EC2 instance using I
 
 ```bash
 terraform init
+terraform validate
 terraform plan
 terraform apply
 
