@@ -1,4 +1,3 @@
-Docker Custom Image Build
 This directory contains a basic example of building a custom Docker image using Alpine Linux as the base.
 
 It demonstrates the following:
