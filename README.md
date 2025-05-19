@@ -19,3 +19,7 @@ terraform plan
 terraform apply
 
 ## Once applied, the EC2 instance will be provisioned and Apache will be installed and running.
+
+##  Future Plans
+- Add Docker image automation
+- Expand to multi-tier architecture
