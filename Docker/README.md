@@ -1,9 +1,9 @@
 This directory contains a basic example of building a custom Docker image using Alpine Linux as the base.
 
 It demonstrates the following:
-Creating a Dockerfile
-Copying and executing shell scripts within a container
-Managing container lifecycle using Docker CLI commandsagement.
+Creating a Dockerfile,
+copying and executing shell scripts within a container, and 
+managing container lifecycle using Docker CLI commands.
 
 # Build a custom image
 docker build -t my-custom-image .
